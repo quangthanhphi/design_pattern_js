@@ -1,4 +1,8 @@
-// mỗi function là 1 chiến lược riêng
+// mỗi function là 1 chiến lược riêng, All roads lead to Rome
+// Ứng dụng phần mềm: giảm giá
+// Ứng dụng cuộc sống: du lịch ROME
+// ĐỘ KHÓ: 1, sử dụng: 4
+
 /**
  * Giảm giá khi người dùng đặt trước một sản phẩm của VINFAST 
  * @param {*} originalPrice
